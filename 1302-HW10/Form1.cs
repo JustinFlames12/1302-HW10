@@ -15,6 +15,27 @@ namespace _1302_HW10
         public Form1()
         {
             InitializeComponent();
+            this.Size = new Size(350, 150);	    // shrink main form 
+            
+
+            //txtUser = new TextBox();
+            //txtUser.Location = new Point(20, 15);   // x, y
+            //txtUser.Size = new Size(200, 20);          // width, height
+            //this.Controls.Add(txtUser);
+
+            //btnOk = new Button();
+            //btnOk.Location = new Point(20, 50);     // x, y
+            //btnOk.Text = "OK";
+            //this.Controls.Add(btnOk);
+
+            //btnClear = new Button();
+            //btnClear.Location = new Point(btnOk.Location.X + btnOk.Size.Width + 20, btnOk.Location.Y);
+            //btnClear.Text = "Clear";
+            //this.Controls.Add(btnClear);
+
+            //btnOk.Click += OKClick;
+            //btnClear.Click += ClearClick;
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -28,6 +49,11 @@ namespace _1302_HW10
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
