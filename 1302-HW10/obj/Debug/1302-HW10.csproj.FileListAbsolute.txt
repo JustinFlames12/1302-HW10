@@ -1,0 +1,10 @@
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\obj\Debug\1302-HW10.csprojAssemblyReference.cache
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\obj\Debug\_1302_HW10.Properties.Resources.resources
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\obj\Debug\1302-HW10.csproj.GenerateResource.cache
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\obj\Debug\1302-HW10.csproj.CoreCompileInputs.cache
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\bin\Debug\1302-HW10.exe.config
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\bin\Debug\1302-HW10.exe
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\bin\Debug\1302-HW10.pdb
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\obj\Debug\1302-HW10.exe
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\obj\Debug\1302-HW10.pdb
+C:\Users\Justi\Desktop\CSCI-1302-HW10\1302-HW10\1302-HW10\obj\Debug\_1302_HW10.Form1.resources
